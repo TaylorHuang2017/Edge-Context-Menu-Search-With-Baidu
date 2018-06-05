@@ -7,6 +7,13 @@ Chrome浏览器中有一个实用的功能：当你选中一段文本，点鼠�
 ![avata](/images/tip1.jpg)
 ![avata](/images/tip2.jpg)
 
+安装方法：
+1. 下载所有文件到本机任意目录
+2. 在Edge浏览器中输入 about:flags 回车
+3. 勾选“Enable extension developer features” 选项，然后重启Edge浏览器
+4. 点...，点extension，点Load Extension
+5. 选择第1步保存的目录
+6. 启用插件
 
 To Install this extension on MS Edge, follow the steps below:
 
