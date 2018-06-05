@@ -4,7 +4,7 @@ To Install this extension on MS Edge, follow the steps below:
 
 Download the Repo and extract it
 
-Go to about:flags in edge and check "Enable extension developer features (this might put your device at risk)" (http://imgur.com/a/490u5) and restart the browser
+Go to about:flags in edge and check "Enable extension developer features (this might put your device at risk)" and restart the browser
 
 Click on the three dots menu (...) go to extension --> Load extension
 
